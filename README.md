@@ -2,11 +2,11 @@
 a glove that can understand the sign language and could turn in to speech, to unmute the mute.
 
 
- # Data Collection and Data Pre-processing:
+ **Data Collection and Data Pre-processing:**
 taking the data from actual conditions of the flex sensors, i.e., when they are attached on fingers and the readings actually measure the bending of each finger. 
 Data Pre-processing: In this phase,we cleaning the collected data
 
-# Feature Extraction and selection:
+**Feature Extraction and selection:**
 For better training and prediction, some extra features were extracted from the dataset.
 
 # Gesture Recognition:
