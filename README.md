@@ -1,4 +1,4 @@
-# Graduation_Project_LIFESIGN
+# Graduation_Project_LIFESIGN AI Model
 a glove that can understand the sign language and could turn in to speech, to unmute the mute.
 
 
